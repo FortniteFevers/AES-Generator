@@ -21,7 +21,7 @@ Open `aes-example` in your preferred text editor, fill in all your API keys wher
 This program can also be ran using a scheduler, such as [Zcron](https://www.z-cron.com/).
 
 ```
-python run.py
+python aes.py
 ```
 
 ## Credits
