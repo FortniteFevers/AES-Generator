@@ -1,11 +1,9 @@
-#FeversBR
-
-FeversBR is a utility which generates the current Fortnite News Updates and shares it on Twitter with a caption of the body and title.
-
-As seen on [@FeversBot](https://twitter.com/FeversBot/status/1270814360114540561)...
+## Fortnite AES key generator
+AES-Generator is a utility which generates the current Fortnite AES key and shares it on Twitter.
+As seen on [@FeversBot](https://twitter.com/FeversBot/status/1272917671852605441)...
 
 <p align="center">
-    <img src="https://i.imgur.com/YXoesjJ.png" width="650px" draggable="false">
+    <img src="https://i.imgur.com/aAln9Ja.png" draggable="false">
 </p>
 
 ## Requirements
@@ -13,22 +11,19 @@ As seen on [@FeversBot](https://twitter.com/FeversBot/status/1270814360114540561
 - [Python 3.7](https://www.python.org/downloads/)
 - [Requests](http://docs.python-requests.org/en/master/user/install/)
 - [colorama](https://pypi.org/project/colorama/)
-- [Pillow](https://pillow.readthedocs.io/en/stable/installation.html#basic-installation)
-- [python-twitter](https://github.com/bear/python-twitter#installing)
-
-A [Fortnite-API API Key](https://fortnite-api.com/profile) is required to obtain the Item Shop data, [Twitter API credentials](https://developer.twitter.com/en/apps) are required to Tweet the image.
+- [tweepy](https://www.tweepy.org/
 
 ## Usage
 
-Open `bot-example.py` in your preferred text editor, fill in all your API keys where it says too. Once finished, save and rename the file to `bot.py`.
+Open `aes-example` in your preferred text editor, fill in all your API keys where it says too. Once finished, save and rename the file to `aes.py`.
 
 
-FeversPY is designed to be ran using a scheduler, such as [Zcron](https://www.z-cron.com/).
+This program can also be ran using a scheduler, such as [Zcron](https://www.z-cron.com/).
 
 ```
-python bot.py
+python run.py
 ```
 
 ## Credits
 
-- Item Shop data provided by [Fortnite-API](https://fortnite-api.com/)
+- AES data provided by [Ben-Bot](https://stoplight.io/p/docs/gh/fabianfg/benbot-docs)
