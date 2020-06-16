@@ -11,7 +11,7 @@ As seen on [@FeversBot](https://twitter.com/FeversBot/status/1272917671852605441
 - [Python 3.7](https://www.python.org/downloads/)
 - [Requests](http://docs.python-requests.org/en/master/user/install/)
 - [colorama](https://pypi.org/project/colorama/)
-- [tweepy](https://www.tweepy.org/
+- [tweepy](https://www.tweepy.org/)
 
 ## Usage
 
